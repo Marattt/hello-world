@@ -1,0 +1,12 @@
+{
+    "name": "rtd/hello-world",
+    "require": {
+        "twig/twig": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "marat",
+            "email": "marat@artmedia.kz"
+        }
+    ]
+}
